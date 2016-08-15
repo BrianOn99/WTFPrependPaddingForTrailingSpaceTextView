@@ -1,0 +1,11 @@
+= WTF IOS Prepend Padding for Trailing Space in Text ?! - Compatibility TextView for Android
+
+== The Story behind
+
+When there is trailing space in text, and the text is centered, IOS will ignore
+it.  Fine.  But if it also _wrap_content_ (in Android wording), it *will add
+padding to the front*, in order to center the text.
+
+== WTF
+
+License: GPLv2
