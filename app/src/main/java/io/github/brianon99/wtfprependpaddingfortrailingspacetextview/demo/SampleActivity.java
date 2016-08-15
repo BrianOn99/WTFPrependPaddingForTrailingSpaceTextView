@@ -1,4 +1,4 @@
-package io.github.brianon99.wtfprependpaddingfortrailingspacetextview;
+package io.github.brianon99.wtfprependpaddingfortrailingspacetextview.demo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

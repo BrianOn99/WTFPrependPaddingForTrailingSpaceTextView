@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="io.github.brianon99.wtfprependpaddingfortrailingspacetextview">
+    package="io.github.brianon99.wtfprependpaddingfortrailingspacetextview.demo">
 
     <application
         android:allowBackup="true"

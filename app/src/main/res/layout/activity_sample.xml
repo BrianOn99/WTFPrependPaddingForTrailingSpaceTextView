@@ -7,7 +7,7 @@
     android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="io.github.brianon99.wtfprependpaddingfortrailingspacetextview.SampleActivity">
+    tools:context="io.github.brianon99.wtfprependpaddingfortrailingspacetextview.demo.SampleActivity">
 
     <TextView
         android:id="@+id/ordinary_text_view"
