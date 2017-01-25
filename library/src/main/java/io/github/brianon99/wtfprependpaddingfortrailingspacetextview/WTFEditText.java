@@ -79,7 +79,7 @@ public class WTFEditText extends EditText {
         if ((getGravity() & Gravity.HORIZONTAL_GRAVITY_MASK) != Gravity.CENTER_HORIZONTAL)
             return false;
 
-        if (getLayoutParams().width != ViewGroup.LayoutParams.WRAP_CONTENT)
+        if (getLayoutParams() == null || getLayoutParams().width != ViewGroup.LayoutParams.WRAP_CONTENT)
             return false;
 
         CharSequence text = getText();
